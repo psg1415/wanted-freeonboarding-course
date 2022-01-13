@@ -3,6 +3,7 @@ import "./App.css";
 
 function App() {
   return (
+    //gnb영역S
     <div className="NavBar">
       <div className="MainBar_MainBar">
         <nav className="MainBar_MainBar_nav">
@@ -89,6 +90,13 @@ function App() {
         </nav>
       </div>
     </div>
+    //gnb영역E
+
+    //캐러셀S
+      <div className="Main_Main">
+        
+      </div>
+    //캐러셀E
   );
 }
 
